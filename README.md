@@ -1,4 +1,4 @@
-# Research Software Encyclopdia Jekyll Web
+# Research Software Encyclopedia Jekyll Web
 
 This is an example of a database generated via a [Google Sheet Import](https://rseng.github.io/rse/getting-started/commands/#import)
 using the Research Software Encyclopedia, exporting to a Jekyll Web interface in [docs](docs),
@@ -89,3 +89,12 @@ This means you'll want to:
 2. Since we want to use our custom "tags" column from the Google Sheet, we can edit [docs/pages/data.json](docs/pages/data.json) to customize the API data to use "tags" instead of "topics." Note that if you customize the table you'll need to edit [_layouts/software.html](_layouts/software.html).
 3. When you push to GitHub, enable GitHub pages to render from "docs"
 4. You should check the README.md in the docs folder to see details for customization.
+
+### Automation
+
+We include an example [GitHub workflow](.github/workflows/update.yaml) that will retrieve data from
+a Google Sheet (as we did above) and then update the database and site. We install the RSEpedia from the master
+branch to allow for testing new features. You can use and edit this workflow to your liking, and please open an issue
+if you'd like to ask for help.
+
+Do you have any questions? please [open an issue](https://github.com/rseng/rse-jekyll-web/issues) to let us know!
