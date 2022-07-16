@@ -23,6 +23,6 @@
         "classifier features": "create cross-correlation classifiers; semi-active learning approach to create classifiers with little initial training data",
         "metadata standard": "",
         "comments": "Related paper - https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13092",
-        "timestamp": "2022-07-16 15:04:14.626705"
+        "timestamp": "2022-07-16 15:20:26.024414"
     }
 }

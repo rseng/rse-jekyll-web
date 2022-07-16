@@ -1,11 +1,14 @@
 {
     "parser": "github",
     "uid": "github/patriceguyot/Acoustic_Indices",
-    "url": "https://github.com/patriceguyot/Acoustic_Indices",
+    "url": null,
     "data": {
         "title": "Acoustic Indices",
         "url": "https://github.com/patriceguyot/Acoustic_Indices",
         "description": "calculate acoustic indices",
+        "tags": [
+            "acousic"
+        ],
         "paid, free, open": "free",
         "code available": "Y",
         "license": "GPL v3",
@@ -20,28 +23,6 @@
         "classifier features": "",
         "metadata standard": "",
         "comments": "",
-        "timestamp": "2022-07-16 14:11:24.917758",
-        "tags": [
-            "acousic"
-        ]
-    },
-    "title": "Acoustic Indices",
-    "description": "calculate acoustic indices",
-    "tags": [
-        "acousic"
-    ],
-    "paid, free, open": "free",
-    "code available": "Y",
-    "license": "GPL v3",
-    "taxonomic or sound type specialization, if any": "",
-    "type": "Python",
-    "data exploration": "",
-    "organization and annotation": "",
-    "sound processing features": "",
-    "acoustic parameter measurement": "extract acoustic indices to use as biodiversity proxy",
-    "localization": "",
-    "detector features": "",
-    "classifier features": "",
-    "metadata standard": "",
-    "comments": ""
+        "timestamp": "2022-07-16 15:20:26.018497"
+    }
 }
