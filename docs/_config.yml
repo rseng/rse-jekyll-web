@@ -73,6 +73,11 @@ social:
 
 twitter: vsoch
 
+# Number of tags to show in cloud
+min_tag_count: 1
+
+# Change color above this upper range
+tag_threshold: 10
 
 # Search settings
 tipue_search:
