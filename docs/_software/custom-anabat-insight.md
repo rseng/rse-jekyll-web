@@ -2,7 +2,7 @@
 parser: "custom"
 uid: "custom/anabat-insight"
 url: "https://www.titley-scientific.com/us/anabat-insight.html"
-timestamp: "2022-07-16 15:04:14.624758"
+timestamp: "2022-07-16 15:20:26.022886"
 description: "recording organization, review, and classification"
 repo_url: "https://www.titley-scientific.com/us/anabat-insight.html"
 title: "Anabat insight"
@@ -21,5 +21,5 @@ detector features: "bat call detection and custom filtering in full-spectrum and
 classifier features: "create decision tree classifiers and support third-party ID algorithms"
 metadata standard: "GUANO"
 comments: ""
-date: "2022-07-16 15:08:27.828311"
+date: "2022-07-16 22:12:44.296674"
 ---
