@@ -1,6 +1,5 @@
 name: Update
 on:
-  pull_request: []
   schedule:
     # Once a week on Saturday
     - cron: '0 0 * * 6'
@@ -47,11 +46,12 @@ jobs:
           git config --global user.email "github-actions@users.noreply.github.com"
           git checkout main
           git add docs/_software/*
+          git add database/*
           git status
           if git diff-index --quiet HEAD --; then
              printf "No changes\n"
           else
              printf "Changes\n"
-             git commit -a -m "Automated deployment to update containers $(date '+%Y-%m-%d')"
+             git commit -a -m "Automated deployment to update software and UI $(date '+%Y-%m-%d')"
              git push origin main
           fi
