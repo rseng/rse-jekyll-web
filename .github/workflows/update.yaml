@@ -16,7 +16,8 @@ jobs:
         run: |
           export PATH="/usr/share/miniconda/bin:$PATH"
           source activate rse
-          git clone -b add/update-command https://github.com/rseng/rse /tmp/rse
+          # Update from master to be safe
+          git clone https://github.com/rseng/rse /tmp/rse
           cd /tmp/rse
           pip install -e .[all]
           cd -
