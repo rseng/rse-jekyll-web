@@ -1,8 +1,8 @@
 ---
 parser: "custom"
-uid: "custom/anabat-insight"
+uid: "custom/www-titley-scientific-com/us/anabat-insight-html"
 url: "https://www.titley-scientific.com/us/anabat-insight.html"
-timestamp: "2022-07-16 15:20:26.022886"
+timestamp: "2022-07-23 01:59:21.357552"
 description: "recording organization, review, and classification"
 repo_url: "https://www.titley-scientific.com/us/anabat-insight.html"
 title: "Anabat insight"
@@ -17,5 +17,5 @@ acoustic parameter measurement: "calculate pulse and pass acoustic parameters, e
 detector features: "bat call detection and custom filtering in full-spectrum and zero-crossing recordings"
 classifier features: "create decision tree classifiers and support third-party ID algorithms"
 metadata standard: "GUANO"
-date: "2022-07-23 01:59:22.650698"
+date: "2022-07-23 01:59:22.651063"
 ---

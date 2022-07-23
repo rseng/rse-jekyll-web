@@ -11,17 +11,8 @@ tags: ["acousic"]
 paid, free, open: "free"
 code available: "Y"
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
-taxonomic or sound type specialization, if any: ""
 type: "Python"
-data exploration: ""
-organization and annotation: ""
-sound processing features: ""
 acoustic parameter measurement: "extract acoustic indices to use as biodiversity proxy"
-localization: ""
-detector features: ""
-classifier features: ""
-metadata standard: ""
-comments: ""
 name: "Acoustic_Indices"
 full_name: "patriceguyot/Acoustic_Indices"
 html_url: "https://github.com/patriceguyot/Acoustic_Indices"
@@ -35,5 +26,5 @@ language: "Python"
 open_issues_count: 4
 subscribers_count: 4
 owner: {"html_url": "https://github.com/patriceguyot", "avatar_url": "https://avatars.githubusercontent.com/u/7230110?v=4", "login": "patriceguyot", "type": "User"}
-date: "2022-07-16 22:12:44.295863"
+date: "2022-07-23 01:59:22.651932"
 ---

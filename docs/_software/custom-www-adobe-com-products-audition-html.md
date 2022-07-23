@@ -1,8 +1,8 @@
 ---
 parser: "custom"
-uid: "custom/adobe-audition"
+uid: "custom/www-adobe-com/products/audition-html"
 url: "https://www.adobe.com/products/audition.html"
-timestamp: "2022-07-16 15:20:26.021277"
+timestamp: "2022-07-23 01:59:21.356358"
 description: "geared toward sound editing"
 repo_url: "https://www.adobe.com/products/audition.html"
 title: "Adobe audition"
@@ -12,5 +12,5 @@ code available: "N"
 type: "desktop GUI"
 data exploration: "general-purpose audio review"
 sound processing features: "edit audio"
-date: "2022-07-23 01:59:22.649986"
+date: "2022-07-23 01:59:22.648983"
 ---

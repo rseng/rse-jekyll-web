@@ -15,13 +15,6 @@ taxonomic or sound type specialization, if any: "recordings collected from Audio
 type: "command line"
 data exploration: "a variety of spectrogram visualization bash scripts"
 organization and annotation: "script to rename AudioMoth hex files to human-readable filenames"
-sound processing features: ""
-acoustic parameter measurement: ""
-localization: ""
-detector features: ""
-classifier features: ""
-metadata standard: ""
-comments: ""
 name: "audiomoth-scripts"
 full_name: "nwolek/audiomoth-scripts"
 html_url: "https://github.com/nwolek/audiomoth-scripts"
@@ -36,5 +29,5 @@ open_issues_count: 4
 subscribers_count: 5
 owner: {"html_url": "https://github.com/nwolek", "avatar_url": "https://avatars.githubusercontent.com/u/464655?v=4", "login": "nwolek", "type": "User"}
 topics: ["bash", "bash-script", "audio", "audio-analysis", "spectrogram"]
-date: "2022-07-16 22:12:44.295408"
+date: "2022-07-23 01:59:22.651507"
 ---
