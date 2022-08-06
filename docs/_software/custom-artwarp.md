@@ -14,5 +14,5 @@ taxonomic or sound type specialization, if any: "tonal sounds; individual animal
 type: "MATLAB"
 acoustic parameter measurement: "identify frequncy sweeps"
 classifier features: "create classifier of tonal sounds using ART neural network"
-date: "2022-07-30 01:58:56.286377"
+date: "2022-08-06 01:52:51.857264"
 ---
