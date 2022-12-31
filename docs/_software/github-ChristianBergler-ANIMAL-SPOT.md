@@ -22,7 +22,8 @@ clone_url: "https://github.com/ChristianBergler/ANIMAL-SPOT.git"
 size: 23167
 stargazers_count: 9
 watchers_count: 9
+language: "Python"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/ChristianBergler", "avatar_url": "https://avatars.githubusercontent.com/u/58565581?v=4", "login": "ChristianBergler", "type": "User"}
-date: "2022-12-24 01:15:40.865213"
+date: "2022-12-31 01:19:50.204187"
 ---
