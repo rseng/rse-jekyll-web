@@ -13,5 +13,5 @@ license: "GPL v3"
 type: "desktop GUI"
 data exploration: "simple but powerful software for viewing one or many recording waveforms or spectrograms at once"
 sound processing features: "full suite of sound editing features"
-date: "2023-12-30 01:07:20.404202"
+date: "2024-01-06 01:09:28.143559"
 ---
