@@ -29,5 +29,5 @@ open_issues_count: 4
 subscribers_count: 5
 owner: {"html_url": "https://github.com/nwolek", "avatar_url": "https://avatars.githubusercontent.com/u/464655?v=4", "login": "nwolek", "type": "User"}
 topics: ["bash", "bash-script", "audio", "audio-analysis", "spectrogram"]
-date: "2026-01-10 01:56:59.976099"
+date: "2026-01-17 01:55:23.980374"
 ---
