@@ -15,5 +15,5 @@ organization and annotation: "web-based annotation GUI; phone app for managing r
 acoustic parameter measurement: "aggregate recordings at different temporal and spatial scales"
 detector features: "template-matching detection"
 comments: "free storage"
-date: "2026-05-02 03:19:12.149292"
+date: "2026-05-09 03:26:42.629855"
 ---

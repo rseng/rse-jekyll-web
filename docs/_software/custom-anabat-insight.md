@@ -17,5 +17,5 @@ acoustic parameter measurement: "calculate pulse and pass acoustic parameters, e
 detector features: "bat call detection and custom filtering in full-spectrum and zero-crossing recordings"
 classifier features: "create decision tree classifiers and support third-party ID algorithms"
 metadata standard: "GUANO"
-date: "2026-05-02 03:19:12.149091"
+date: "2026-05-09 03:26:42.629633"
 ---
