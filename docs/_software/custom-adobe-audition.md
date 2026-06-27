@@ -12,5 +12,5 @@ code available: "N"
 type: "desktop GUI"
 data exploration: "general-purpose audio review"
 sound processing features: "edit audio"
-date: "2026-06-20 04:01:04.810503"
+date: "2026-06-27 03:47:15.487327"
 ---
